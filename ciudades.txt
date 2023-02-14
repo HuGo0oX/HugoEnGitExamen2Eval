@@ -1,8 +1,3 @@
-CIUDAD
-Valencia
 Barcelona
 Madrid
-CIUDAD
 Valencia
-Barcelona
-Madrid
