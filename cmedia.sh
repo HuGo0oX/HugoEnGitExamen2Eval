@@ -17,4 +17,4 @@ consumo=`cat consumos.txt | tail -n+$i | head -n1 | awk '{print $4}'`
     fi
 done
 media=$((suma/cont))
-echo "La media de consumo de $ciudad es de $media."
+echo "$media."
