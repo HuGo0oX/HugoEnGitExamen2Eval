@@ -1,5 +1,4 @@
 CIUDAD MES año CONSUMO
-Valencia Enero 2022 678
 Valencia Febreo 2022 567
 Valencia Marzo 2022 457
 Valencia Abril 2022 389
